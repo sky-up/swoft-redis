@@ -1,5 +1,5 @@
 {
-  "name": "swoft/redis",
+  "name": "swoft-fork/redis",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -11,11 +11,11 @@
     "redis-cluster"
   ],
   "description": "swoft redis component",
-  "homepage": "https://github.com/swoft-cloud/swoft-redis",
+  "homepage": "https://github.com/sky-up/swoft-redis",
   "license": "Apache-2.0",
   "require": {
-    "swoft/framework": "~2.0.0",
-    "swoft/connection-pool": "~2.0.0"
+    "swoft-fork/framework": "~2.0.0",
+    "swoft-fork/connection-pool": "~2.0.0"
   },
   "autoload": {
     "classmap": [
