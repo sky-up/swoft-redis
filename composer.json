@@ -1,7 +1,7 @@
 {
   "name": "swoft-fork/redis",
   "type": "library",
-  "version": "v2.0.11",
+  "version": "v2.1.0",
   "keywords": [
     "php",
     "swoole",
@@ -14,8 +14,8 @@
   "homepage": "https://github.com/sky-up/swoft-redis",
   "license": "Apache-2.0",
   "require": {
-    "swoft-fork/framework": "~2.0.0",
-    "swoft-fork/connection-pool": "~2.0.0"
+    "swoft-fork/framework": "~2.1.0",
+    "swoft-fork/connection-pool": "~2.1.0"
   },
   "autoload": {
     "classmap": [
